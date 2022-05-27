@@ -1,5 +1,5 @@
 
-# Exercícios de lógica de programação - 
+# Exercícios de lógica de programação 
 
 Repositório criado para listar os comandos mais utilizados no git
 
@@ -8,6 +8,7 @@ Repositório criado para listar os comandos mais utilizados no git
 ## Exercícios:
 
 [Exercício 1](./exercicio-1.ALG)
+
 [Exercício 2](./exercicio-2.ALG)
 [Exercício 3](./exercicio-3.ALG)
 [Exercício 4](./exercicio-4.ALG)
